@@ -1,93 +1,217 @@
-# Conecta+ e Projeto de Extensão
+# Projeto de Extensão
 
-## 1. O que é o Conecta+?
+## 1. O que é um Projeto de Extensão?
 
-O **Conecta+** é um projeto de extensão universitária do **UniSENAI-SP** que busca aproximar os estudantes da comunidade por meio de ações de formação, capacitação, cursos, oficinas, palestras e outras atividades.
+Um **projeto de extensão** é uma atividade acadêmica que conecta a **instituição de ensino à sociedade**, aplicando conhecimentos e competências dos estudantes na identificação e resolução de problemas reais.
 
-A proposta é conectar o conhecimento desenvolvido pelos estudantes às **necessidades reais da comunidade**, permitindo que o aluno aplique seus conhecimentos e desenvolva novas competências.
+Seu objetivo é gerar **aprendizagem para os estudantes e benefícios para a comunidade**, estabelecendo uma relação de troca entre estudantes, professores, instituição e sociedade.
 
-> **Conecta+ = conhecimento + prática + comunidade + impacto social**
-
----
-
-## 2. O que é um Projeto de Extensão?
-
-Um **projeto de extensão** é uma atividade acadêmica que promove a aproximação entre a instituição de ensino e a sociedade.
-
-Por meio da extensão, os conhecimentos desenvolvidos durante a formação acadêmica são aplicados em **ações que contribuem para a comunidade**.
-
-O estudante deixa de ser apenas um receptor de conhecimento e passa a atuar como **protagonista na construção e aplicação de soluções**.
-
-### A extensão conecta:
-
-- 🎓 **Ensino** — conhecimentos desenvolvidos no curso;
-- 🔬 **Pesquisa** — investigação e busca de soluções;
-- 🌎 **Comunidade** — necessidades e problemas reais;
-- 🛠️ **Prática** — aplicação dos conhecimentos;
-- 🤝 **Impacto social** — contribuição para a sociedade.
+> **Extensão = conhecimento aplicado + participação da comunidade + impacto social**
 
 ---
 
-## 3. Como funciona o Conecta+?
+## 2. Qual é o objetivo?
 
-O Conecta+ aproxima estudantes do **Ensino Médio** e da comunidade do **UniSENAI-SP**.
+Um projeto de extensão busca:
 
-Os estudantes dos Cursos Superiores de Tecnologia participam do planejamento e da realização de atividades, como:
-
-- Cursos de curta duração;
-- Oficinas;
-- Palestras;
-- Treinamentos;
-- Atividades educacionais;
-- Ações tecnológicas;
-- Atividades voltadas à comunidade.
+- Identificar necessidades da comunidade;
+- Aplicar conhecimentos acadêmicos em situações reais;
+- Desenvolver soluções para problemas concretos;
+- Promover a troca de conhecimentos;
+- Desenvolver competências nos estudantes;
+- Fortalecer a relação entre instituição e sociedade;
+- Gerar resultados e impacto social.
 
 ---
 
-## 4. Quem participa?
+## 3. Quem participa?
 
 ### 👨‍🎓 Estudantes
 
-Os estudantes participam do planejamento, desenvolvimento e execução das atividades.
-
-Podem desenvolver competências como:
-
-- Comunicação;
-- Liderança;
-- Planejamento;
-- Trabalho em equipe;
-- Organização;
-- Docência;
-- Gestão de projetos;
-- Responsabilidade social.
+Participam ativamente do projeto, aplicando conhecimentos e desenvolvendo competências técnicas e profissionais.
 
 ### 👨‍🏫 Professores
 
-Os professores orientam e acompanham o desenvolvimento das atividades de extensão.
+Orientam, acompanham e avaliam as atividades desenvolvidas.
 
 ### 🌎 Comunidade
 
-A comunidade participa das ações e é beneficiada pelos conhecimentos, serviços, capacitações e soluções desenvolvidos.
+Apresenta necessidades, participa das ações e é beneficiada pelos resultados do projeto.
+
+### 🏢 Parceiros
+
+Empresas, escolas, organizações sociais, instituições públicas e outras entidades podem participar como parceiras.
 
 ---
 
-## 5. Como funciona um projeto de extensão?
+## 4. O que pode ser um Projeto de Extensão?
 
-Um projeto pode seguir um ciclo como:
+Um projeto de extensão pode assumir diferentes formatos:
+
+- 📚 Cursos e capacitações;
+- 🎤 Palestras e seminários;
+- 🛠️ Oficinas e workshops;
+- 💻 Desenvolvimento de sistemas e soluções tecnológicas;
+- 🤝 Projetos sociais;
+- 🌱 Projetos ambientais;
+- 🚀 Projetos de inovação;
+- 🏫 Ações com escolas;
+- 🏢 Ações com empresas e organizações;
+- 🔬 Projetos de pesquisa aplicada;
+- 📢 Campanhas e ações de conscientização.
+
+O formato deve ser definido de acordo com o **problema, público, objetivos e resultados esperados**.
+
+---
+
+## 5. Como nasce um projeto?
+
+Um projeto de extensão normalmente começa a partir de uma **necessidade ou oportunidade identificada na comunidade**.
 
 ```text
 Necessidade da comunidade
           ↓
 Identificação do problema
           ↓
-Planejamento da ação
+Levantamento de informações
           ↓
-Desenvolvimento da solução
+Definição dos objetivos
           ↓
-Execução da atividade
+Planejamento
           ↓
-Participação da comunidade
+Desenvolvimento da ação
           ↓
-Resultados e impacto
+Execução
           ↓
-Registro e avaliação
+Avaliação
+          ↓
+Resultados
+          ↓
+Impacto na comunidade
+```
+
+---
+
+## 6. O papel do estudante
+
+No projeto de extensão, o estudante deixa de ser apenas um **receptor de conhecimento** e passa a atuar como protagonista.
+
+Pode participar de atividades como:
+
+- Identificar problemas;
+- Levantar requisitos;
+- Planejar atividades;
+- Pesquisar soluções;
+- Desenvolver produtos ou serviços;
+- Ministrar atividades;
+- Trabalhar em equipe;
+- Interagir com a comunidade;
+- Avaliar resultados;
+- Documentar o projeto.
+
+---
+
+## 7. Competências desenvolvidas
+
+A participação em projetos de extensão permite desenvolver competências como:
+
+| Competências técnicas | Competências profissionais |
+|---|---|
+| Conhecimentos específicos do curso | Comunicação |
+| Desenvolvimento de soluções | Liderança |
+| Uso de ferramentas | Trabalho em equipe |
+| Análise de problemas | Organização |
+| Pesquisa | Gestão de projetos |
+| Aplicação de métodos | Resolução de problemas |
+| Documentação | Responsabilidade social |
+
+---
+
+## 8. Benefícios da extensão
+
+### 🎓 Para o estudante
+
+- Experiência prática;
+- Aplicação do conhecimento;
+- Desenvolvimento de competências;
+- Protagonismo;
+- Contato com situações reais.
+
+### 🏫 Para a instituição
+
+- Aproximação com a sociedade;
+- Fortalecimento de parcerias;
+- Aplicação prática do conhecimento;
+- Integração entre ensino, pesquisa e extensão.
+
+### 🌎 Para a comunidade
+
+- Acesso a conhecimentos e serviços;
+- Capacitação;
+- Desenvolvimento de soluções;
+- Atendimento a necessidades reais;
+- Impacto social.
+
+---
+
+## 9. Como avaliar um projeto?
+
+A avaliação deve considerar não apenas a realização das atividades, mas também os **resultados e impactos gerados**.
+
+### Exemplos de indicadores
+
+- Número de participantes;
+- Número de pessoas atendidas;
+- Número de ações realizadas;
+- Número de estudantes envolvidos;
+- Número de instituições parceiras;
+- Produtos ou soluções desenvolvidos;
+- Taxa de participação;
+- Satisfação dos participantes;
+- Resultados alcançados;
+- Benefícios gerados para a comunidade.
+
+---
+
+## 10. Extensão e os ODS
+
+Os projetos de extensão podem contribuir para diferentes **Objetivos de Desenvolvimento Sustentável (ODS)**.
+
+Entre eles:
+
+- **ODS 4 — Educação de Qualidade**
+- **ODS 8 — Trabalho Decente e Crescimento Econômico**
+- **ODS 9 — Indústria, Inovação e Infraestrutura**
+- **ODS 10 — Redução das Desigualdades**
+- **ODS 11 — Cidades e Comunidades Sustentáveis**
+- **ODS 12 — Consumo e Produção Responsáveis**
+- **ODS 13 — Ação Contra a Mudança Global do Clima**
+- **ODS 17 — Parcerias e Meios de Implementação**
+
+A escolha dos ODS deve estar relacionada aos **objetivos e impactos reais de cada projeto**.
+
+---
+
+## 11. Em resumo
+
+Um projeto de extensão conecta:
+
+```text
+INSTITUIÇÃO
+     ↕
+ESTUDANTES
+     ↕
+PROFESSORES
+     ↕
+COMUNIDADE
+     ↓
+PROBLEMA REAL
+     ↓
+CONHECIMENTO
+     ↓
+SOLUÇÃO
+     ↓
+IMPACTO
+```
+
+> **Projeto de extensão é transformar conhecimento acadêmico em ações que geram aprendizagem, soluções e impacto para a sociedade.**
