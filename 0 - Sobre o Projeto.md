@@ -1,8 +1,8 @@
-# DoasyInc
+# DoaSync
 
 ## 📌 Sobre o projeto
 
-O **DoasyInc** é um sistema digital de arrecadação de doações desenvolvido para conectar **doadores a entidades assistenciais da região**, contribuindo para o fortalecimento de iniciativas sociais e para a captação de recursos destinados a instituições que atuam em benefício da comunidade.
+O **DoaSync** é um sistema digital de arrecadação de doações desenvolvido para conectar **doadores a entidades assistenciais da região**, contribuindo para o fortalecimento de iniciativas sociais e para a captação de recursos destinados a instituições que atuam em benefício da comunidade.
 
 O projeto possui como foco inicial o atendimento à **APAE** e à **Associação Amor Inclusivo**, criando uma solução tecnológica para facilitar o processo de arrecadação, organização e gestão das doações.
 
@@ -59,7 +59,7 @@ Dessa forma, o projeto proporciona uma experiência prática de desenvolvimento 
 
 ## 🌎 Impacto na comunidade
 
-O **DoasyInc** busca utilizar a tecnologia como instrumento de apoio às entidades assistenciais, facilitando a aproximação entre organizações que necessitam de recursos e pessoas interessadas em realizar doações.
+O **DoaSync** busca utilizar a tecnologia como instrumento de apoio às entidades assistenciais, facilitando a aproximação entre organizações que necessitam de recursos e pessoas interessadas em realizar doações.
 
 Além do impacto social, o projeto contribui para a formação dos estudantes ao proporcionar uma experiência de desenvolvimento baseada em uma **necessidade real da comunidade**.
 
@@ -90,4 +90,4 @@ Além do impacto social, o projeto contribui para a formação dos estudantes ao
 
 ## 📌 Resumo
 
-O **DoasyInc** é uma iniciativa de desenvolvimento tecnológico voltada à criação de um sistema digital de arrecadação de doações para entidades assistenciais da região. Com foco inicial na **APAE** e na **Associação Amor Inclusivo**, o projeto permite que os alunos participem de todo o ciclo de desenvolvimento de software, aplicando conhecimentos de **análise, design, desenvolvimento e testes** para criar uma solução com impacto direto na comunidade.
+O **DoaSync** é uma iniciativa de desenvolvimento tecnológico voltada à criação de um sistema digital de arrecadação de doações para entidades assistenciais da região. Com foco inicial na **APAE** e na **Associação Amor Inclusivo**, o projeto permite que os alunos participem de todo o ciclo de desenvolvimento de software, aplicando conhecimentos de **análise, design, desenvolvimento e testes** para criar uma solução com impacto direto na comunidade.
