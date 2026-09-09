@@ -21,6 +21,7 @@ Responsável pela compreensão das necessidades do projeto, organização do pro
 | **Ian L. B. O. P.** | CSTADS125N4-T | UX / Front-end            |
 | **Vitor H. S. F.**  | CSTADS125N4-T | Gestão / Documentação     |
 | **João A. S. P.**   | CSTADS126N2-S | Front-end                 |
+| **Luís F. S. C.**   | CSTADS126N2-S | Front-end                 |
 
 ---
 
@@ -49,7 +50,7 @@ Responsável pelo fluxo de doações e pela integração entre doadores, campanh
 | **Pedro V. R. S.**   | CSTADS126N2-S | Back-end / Integrações |
 | **Cauã R. M.**       | CSTADS125N4-T | APIs / Integrações     |
 | **Matheus A. O. S.** | CSTADS126N2   | Front-end              |
-| **Luís F. S. C.**    | CSTADS126N2-S | Front-end              |
+
 
 ---
 
@@ -64,6 +65,10 @@ Responsável pelas funcionalidades de gestão, acompanhamento das informações,
 | **Nícolas O. C. S.** | CSTADS126N2   | Front-end            |
 | **Pietro F. R. S.**  | CSTADS126N2-S | Banco de Dados       |
 | **Matheus D. P.**    | CSTADS125N4-T | Front-end / Back-end |
+| **Juan A. C.**       | CSTADS125N4-T | Banco de Dados       |
+| **João V. L.**       | CSTADS126N2   | Back-end             |
+
+
 
 ---
 
@@ -74,9 +79,7 @@ Responsável pelo suporte à integração geral do projeto, banco de dados, APIs
 | Integrante             | Turma         | Atuação                    |
 | ---------------------- | ------------- | -------------------------- |
 | **João V. M.**         | CSTADS125N4-T | Back-end                   |
-| **João V. L.**         | CSTADS126N2   | Back-end                   |
 | **Amós G. S. S.**      | CSTADS126N2-S | Back-end / Desenvolvimento |
-| **Juan A. C.**         | CSTADS125N4-T | Banco de Dados             |
 | **Paola C.**           | CSTADS125N4-T | DevOps / CI/CD             |
 | **Murilo A. S. G. C.** | CSTADS125N4-T | Back-end / Apoio técnico   |
 
@@ -86,9 +89,12 @@ Responsável pelo suporte à integração geral do projeto, banco de dados, APIs
 
 Cada equipe deverá definir internamente:
 
-* **Líder**
-* **Vice-líder**
-* **Integrantes**
+* Equipe 1	Vitor H. S. F.
+* Equipe 2	Nickolas R. M.
+* Equipe 3	André L. F.
+* Equipe 4	Lucas I.
+* Equipe 5	Paola C.
+
 
 Os líderes serão responsáveis pela organização interna do grupo e pela comunicação com a equipe de gestão.
 
@@ -143,19 +149,6 @@ Cada grupo possui uma responsabilidade principal, mas poderá atuar em conjunto 
 ```
 
 A integração entre os grupos será fundamental para garantir que as diferentes partes do sistema funcionem como uma única solução.
-
----
-
-## 📊 Distribuição das equipes
-
-| Equipe                           | Integrantes |
-| -------------------------------- | ----------: |
-| 🟦 Produto, Usuários e Entidades |           5 |
-| 🟩 Campanhas                     |           5 |
-| 🟨 Doações                       |           6 |
-| 🟧 Gestão e Dashboard            |           5 |
-| 🟥 Plataforma e Qualidade        |           6 |
-| **Total**                        |      **27** |
 
 ---
 
